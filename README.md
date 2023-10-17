@@ -1,3 +1,3 @@
 # autoregressive-rul
 - test
-Austin and Abel's project
+Austin and Abel's project. 
