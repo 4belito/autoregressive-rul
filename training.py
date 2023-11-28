@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 import numpy as np
-import metrics as met
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
